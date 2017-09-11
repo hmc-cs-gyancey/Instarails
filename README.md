@@ -1,6 +1,12 @@
-# Instarails
+# hmc-cs-gyancey's Instagram
 
-This is a simple ruby-on-rails-based Instagram clone based on [this youtube tutorial](https://www.youtube.com/watch?v=MpFO4Zr0EPE) to learn rails.  On it,
+This is a simple ruby-on-rails-based Instagram clone based on [this youtube tutorial](https://www.youtube.com/watch?v=MpFO4Zr0EPE) to learn rails.  It has accounts, and allows you to upload pictures and see pictures other people have uploaded.
+
+Note: I just renamed it as I realized it had to be called `<github-username>'s Instagram` instead of `Instarails` (a name I chose for it) but as it doesn't really make much of a difference in the screenshots I'm not going to update all of them.  The actual app says `hmc-cs-gyancey's Instagram` in the upper left corner (see single updated screenshot below.
+
+![The name is right here...](https://gavin.yancey.io/rails-sc/fixed-name.png)
+
+To use it, 
 
 * You start by signing up for a user account:  
   * Clink on the "sign up" link  
